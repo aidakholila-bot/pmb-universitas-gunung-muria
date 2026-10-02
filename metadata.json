@@ -1,0 +1,6 @@
+{
+  "name": "PMB Universitas Gunung Muria",
+  "description": "Portal Penerimaan Mahasiswa Baru Universitas Gunung Muria dengan sistem real-time leaderboard berbasis AI dan verifikasi biometrik wajah.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
